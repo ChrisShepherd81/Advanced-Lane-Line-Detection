@@ -1,3 +1,4 @@
 .DS_Store
 src/__init__.py
 src/__pycache__
+writeout/
