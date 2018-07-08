@@ -1,0 +1,6 @@
+scale min = 0.8192780841714559 scale max = 1.127277363935161 file: ../test_images\test1.jpg
+scale min = 0.7946381417903594 scale max = 1.0718374935776942 file: ../test_images\test2.jpg
+scale min = 0.7946381417903594 scale max = 1.0410375656013235 file: ../test_images\test3.jpg
+scale min = 0.8069581129809076 scale max = 1.0964774359587905 file: ../test_images\test4.jpg
+scale min = 0.8069581129809076 scale max = 1.0964774359587905 file: ../test_images\test5.jpg
+scale min = 0.8069581129809076 scale max = 1.0964774359587905 file: ../test_images\test6.jpg

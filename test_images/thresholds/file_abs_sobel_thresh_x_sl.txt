@@ -1,0 +1,6 @@
+scale min = 8 scale max = 46 file: ../test_images\test1.jpg
+scale min = 20 scale max = 49 file: ../test_images\test2.jpg
+scale min = 9 scale max = 39 file: ../test_images\test3.jpg
+scale min = 8 scale max = 47 file: ../test_images\test4.jpg
+scale min = 9 scale max = 30 file: ../test_images\test5.jpg
+scale min = 11 scale max = 24 file: ../test_images\test6.jpg
